@@ -24,7 +24,7 @@
         {
             "id": 3,
             "q": "Pick a fast-food spot",
-            "ans": [" Dunkin’ Donuts", "Wendy’s", "Burger King", "McDonald’s"],
+            "ans": [" Dunkin Donuts", "Wendy’s", "Burger King", "McDonalds"],
             "color": "#0f65ef",
             "colorText": "white"
         },
