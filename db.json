@@ -1,45 +1,45 @@
 {
-    quests: [
+    "quests": [
         {
-            id: 0,
-            q: " Pick some food",
-            ans: ['caesar salad', 'nuggets', 'burger', 'chicken sandwich'],
-            color: "#e42311",
-            colorText: "black"
+            "id": 0,
+            "q": " Pick some food",
+            "ans": ['caesar salad', 'nuggets', 'burger', 'chicken sandwich'],
+            "color": "#e42311",
+            "colorText": "black"
         },
         {
-            id: 1,
-            q: " Pick a healthy choice ",
-            ans: ['fruit', 'salad', 'parfait', 'pasta salad'],
-            color: "#f43192",
-            colorText: "black"
+            "id": 1,
+            "q": " Pick a healthy choice ",
+            "ans": ['fruit', 'salad', 'parfait', 'pasta salad'],
+            "color": "#f43192",
+            "colorText": "black"
         },
         {
-            id: 2,
-            q: "Pick a movie snack",
-            ans: [' M&M’s', 'caramel popcorn', 'traditional popcorn', 'ice cream'],
-            color: "#6645dd",
-            colorText: "white"
+            "id": 2,
+            "q": "Pick a movie snack",
+            "ans": [' M&M’s', 'caramel popcorn', 'traditional popcorn', 'ice cream'],
+            "color": "#6645dd",
+            "colorText": "white"
         },
         {
-            id: 3,
-            q: "Pick a fast-food spot",
-            ans: [' Dunkin’ Donuts', 'Wendy’s', 'Burger King', 'McDonald’s'],
-            color: "#0f65ef",
-            colorText: "white"
+            "id": 3,
+            "q": "Pick a fast-food spot",
+            "ans": [' Dunkin’ Donuts', 'Wendy’s', 'Burger King', 'McDonald’s'],
+            "color": "#0f65ef",
+            "colorText": "white"
         },
         {
-            id: 4,
-            q: "Pick some more food",
-            ans: ['pasta', 'chicken', 'sandwich', 'pizza'],
-            color: "#007c7c",
-            colorText: "white"
+            "id": 4,
+            "q": "Pick some more food",
+            "ans": ['pasta', 'chicken', 'sandwich', 'pizza'],
+            "color": "#007c7c",
+            "colorText": "white"
         },
     ],
-    results: [
-        {who: "Stern", desc: "You’re a very serious person!"},
-        {who: "Funny", desc: "You have a wicked sense of humour!"},
-        {who: "Outgoing", desc: "You’re a perfect mix of funny, chill, and intelligence!"},
-        {who: "Shy", desc: "You’re shy and reserved!"},
+    "results": [
+        {"who": "Stern", "desc": "You’re a very serious person!"},
+        {"who": "Funny", "desc": "You have a wicked sense of humour!"},
+        {"who": "Outgoing", "desc": "You’re a perfect mix of funny, chill, and intelligence!"},
+        {"who": "Shy", "desc": "You’re shy and reserved!"},
     ]
 }
